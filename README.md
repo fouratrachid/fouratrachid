@@ -1,8 +1,8 @@
 ### Hi there 👋
 **I'm Fourat Rachid, a software engineering student from Tunisia.**
-🌱 I’m passionate about Artitficial Intelligence and Data Science. 
-👯 Always ready to collaborate on projects related to ML, DL and Data Science. 
-📫 Reach me on [Linkedin](https://www.linkedin.com/in/fourat-rachid-21b244204/)
+###🌱 I’m passionate about Artitficial Intelligence and Data Science. 
+###👯 Always ready to collaborate on projects related to ML, DL and Data Science. 
+###📫 Reach me on [Linkedin](https://www.linkedin.com/in/fourat-rachid-21b244204/)
 
 
 [![Fourat's GitHub stats](https://github-readme-stats.vercel.app/api?username=fouratrachid)](https://github.com/anuraghazra/github-readme-stats)
