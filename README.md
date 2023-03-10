@@ -1,8 +1,8 @@
 ### Hi there 👋
 **I'm Fourat Rachid, a software engineering student from Tunisia.** 
-- 🌱 I’m passionate about Artitficial Intelligence, Data Science & Mobile development . 
+- 🌱 I’m passionate about Artitficial Intelligence, Data Science & wen development . 
 - 👯 Always ready to collaborate on projects related to ML, DL & Data Science. 
-- 🔭 I’m currently learning Dart & Flutter.
+- 🔭 I’m currently learning NodeJs.
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/fourat-rachid-21b244204/)
 
 
