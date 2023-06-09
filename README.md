@@ -2,7 +2,7 @@
 **I'm Fourat Rachid, a software engineering student from Tunisia.** 
 - 🌱 I’m passionate about Data Science & Mobile Development . 
 - 👯 Always ready to collaborate on projects related to Flutter. 
-- 🔭 I’m currently learning NodeJs.
+- 🔭 I'm currently focusing on diving more into data science in football industry.
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/fourat-rachid-21b244204/)
 
 
