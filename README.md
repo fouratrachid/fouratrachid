@@ -1,5 +1,5 @@
 ### Hi there 👋
-**I'm Fourat Rachid, a software engineering student from Tunisia.** 
+**I'm Fourat Rachid, a software engineer from Tunisia.** 
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/fourat-rachid-21b244204/)
 
 
